@@ -10,7 +10,7 @@ bot = telebot.TeleBot(TOKEN)
 # Словарь с гайдами
 guides = {
     "Гайд готовимся к малышу": "guides/guide-baby-get-ready.pdf",
-    "Гайд 50 развивашек своими руками": "guides/guide-entertaiment.pdf",
+    "Гайд 50 развивашек своими руками": "guides/guide-entertaiment.pptx.pdf",
     "Гайд подарки на годик": "guides/guide-present.pdf"
 }
 
