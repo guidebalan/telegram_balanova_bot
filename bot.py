@@ -11,7 +11,8 @@ bot = telebot.TeleBot(TOKEN)
 guides = {
     "Гайд готовимся к малышу": "guides/guide-baby-get-ready.pdf",
     "Гайд 50 развивашек своими руками": "guides/guide-entertaiment.pptx.pdf",
-    "Гайд подарки на годик": "guides/guide-present.pdf"
+    "Гайд подарки на годик": "guides/guide-present.pdf",
+    "Гайд сумки в роддом и история родов": "guides/birth-bags.pdf"
 }
 
 def is_subscribed(user_id):
