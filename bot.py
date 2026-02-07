@@ -9,10 +9,11 @@ bot = telebot.TeleBot(TOKEN)
 
 # Словарь с гайдами
 guides = {
-    "Гайд готовимся к малышу": "guides/guide-baby-get-ready.pdf",
-    "Гайд 50 развивашек своими руками": "guides/guide-entertaiment.pptx.pdf",
-    "Гайд подарки на годик": "guides/guide-present.pdf",
-    "Гайд сумки в роддом и история родов": "guides/birth-bags.pdf"
+    "Гайд: готовимся к малышу": "guides/guide-baby-get-ready.pdf",
+    "Гайд: сумки в роддом и история родов": "guides/birth-bags.pdf",
+    "Гайд: подарки на годик": "guides/guide-present.pdf",
+    "Гайд: 50 развивашек своими руками": "guides/guide-entertaiment.pptx.pdf",
+    "Гайд: я не плохая мама. Я просто устала": "guides/relax-mommy.pdf"
 }
 
 def is_subscribed(user_id):
