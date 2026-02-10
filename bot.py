@@ -13,7 +13,8 @@ guides = {
     "Гайд: сумки в роддом и история родов": "guides/birth-bags.pdf",
     "Гайд: подарки на годик": "guides/guide-present.pdf",
     "Гайд: 50 развивашек своими руками": "guides/guide-entertaiment.pptx.pdf",
-    "Гайд: я не плохая мама. Я просто устала": "guides/relax-mommy.pdf"
+    "Гайд: я не плохая мама. Я просто устала": "guides/relax-mommy.pdf",
+    "Гайд: путешествие с малышом до года": "guides/baby-travel.pdf",
 }
 
 def is_subscribed(user_id):
