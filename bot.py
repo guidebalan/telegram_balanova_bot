@@ -9,6 +9,7 @@ bot = telebot.TeleBot(TOKEN)
 
 # Словарь с гайдами
 guides = {
+    "100 подарков на 2 года": "guides/100gifts-2years.pdf",
     "идеальный горшок": "guides/super-gorshok.pdf",
     "готовимся к малышу": "guides/guide-baby-get-ready.pdf",
     "сумки в роддом и история родов": "guides/birth-bags.pdf",
